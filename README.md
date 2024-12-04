@@ -16,7 +16,7 @@ a passion for coding and creating innovative solutions. This README is my playgr
 <!-- <strong> WonderLust&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp:</strong>&nbsp&nbsp&nbsp Developed a classic WonderLust web site using frontend like HTML, CSS,andJavaScript, 
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspbackend Node.js,Express.js featuring continuous player-controlled movement and a visually appealing 
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-&nbsp&nbsp design. Implemented real-time user interaction.<br>
-<h3 align="left">DECLARATION</h3> -->
+&nbsp&nbsp design. Implemented real-time user interaction.<br>-->
+<h3 align="left">DECLARATION</h3> 
 I hereby declare that all the information given above is true and correct to the best of my knowledge
 
