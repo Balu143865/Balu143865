@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Banavath Balu Naik</h1>
 <h3 align="left">About Me</h3>
-<p>I'm Balu Naik,a third year Computer Science & Engineering (AI&ML) Student at Sir RK Engineering College with<br>
-a passion for coding and creating innovative solutions. This README is my playground to showcase my joueney.</p>
+<p>Highly motivated final-year Computer Science (AIML) student with hands-on experience in MERN stack development
+(MongoDB, Express.js, React.js, Node.js). Eager to apply academic knowledge and skills to real-world projects by building
+web applications.</p>
 <h3 align="left">Skills & Interests</h3>
 <strong> Programming Languages&nbsp:</strong>&nbsp&nbsp&nbsp PYTHON<br>
 <strong> Web Technologies&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp:</strong>&nbsp&nbsp&nbsp HTML, CSS, JavaScript<br>
