@@ -2,8 +2,6 @@ name: Contribution Calendar
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "0 0 * * *"
 
 permissions:
   contents: write
@@ -13,11 +11,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v7
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
       - name: Generate Contribution Calendar
-        uses: seijikohara/profile-cards-action@v1
+        uses: seijikohara/profile-cards-action@v0
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           username: Balu143865
@@ -25,4 +23,4 @@ jobs:
           output-dir: assets
           themes: light,dark
           commit: true
-          commit-message: "chore: update contribution calendar"
+          commit-message: "Update contribution calendar"
