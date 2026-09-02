@@ -1,118 +1,117 @@
 <div align="center">
 
-<!-- ================= HERO BANNER ================= -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=220&section=header&text=Banavath%20Balu%20Naik&fontSize=42&fontColor=38bdf8&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20Building%20clean,%20scalable,%20user-first%20products&descAlignY=58&descSize=18&descColor=94a3b8&animation=fadeIn" alt="header banner"/>
+<!-- ===================== HERO BANNER ===================== -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=220&section=header&text=Banavath%20Balu%20Naik&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20Hyderabad,%20India&descAlignY=58&descSize=18&animation=fadeIn"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;MERN+Stack+%7C+React+%2F+Next.js+%2F+Node.js;Turning+Ideas+Into+Scalable+Web+Apps;Open+to+Full-Time+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br/><br/>
-
 <a href="https://www.linkedin.com/in/banavath-balu-naik-a9ab03298">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://modern-portfolio-new.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:balunaikbanavath662@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://modern-portfolio-new.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="https://github.com/Balu143865">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Balu143865&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS)
-![Location](https://img.shields.io/badge/📍_Hyderabad,_India-1e293b?style=for-the-badge&labelColor=0f172a)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=640&lines=Full+Stack+Web+Developer;MERN+Stack+%7C+React+%2F+Next.js+Enthusiast;Turning+Ideas+Into+Scalable+Web+Apps;Always+Learning+%2C+Always+Building" alt="Typing SVG" />
 
 </div>
 
 <br/>
 
-<!-- ================= ABOUT ME ================= -->
-## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> About Me
+<!-- ===================== ABOUT ME ===================== -->
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/gist/greyhatguy007/2c6fe57f6cbba7f14a4c8d8f79dc5c33/raw/coding.gif" alt="coding gif" />
+## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="28"/> About Me
 
-- 🌱 I'm a **Full Stack Web Developer** from Hyderabad, India, currently starting my professional journey as a **Fresher**.
-- 💻 I specialize in the **MERN stack** — building responsive, performant, and user-centric web applications from front-end to back-end.
-- 🎯 I care deeply about **clean code**, **thoughtful UI/UX**, and **scalable architecture**.
-- 📚 Currently deepening my skills in **System Design, Docker, AWS & DevOps** to become a well-rounded engineer.
-- 🤝 Open to **internship & full-time opportunities** where I can contribute, learn, and grow.
-- ⚡ Fun fact: I enjoy turning complex problems into simple, elegant interfaces.
+<img align="right" width="340" src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/output/graphs/user-activity.svg" />
+
+- 🎓 Fresher **Full Stack Web Developer** based in **Hyderabad, India**
+- 💻 Passionate about building clean, scalable, and performant web applications
+- 🧩 Comfortable across the stack — from pixel-perfect UI to robust backend APIs
+- 🚀 Currently focused on strengthening **System Design**, **DevOps**, and **AI-driven development**
+- 🌱 Believer in writing readable code and continuous learning
+- 🤝 Open to **Full Stack / Frontend / Backend Developer** roles and collaborative projects
 
 <br clear="right"/>
 
-<br/>
+---
 
-<!-- ================= TECH STACK ================= -->
+<!-- ===================== TECH STACK ===================== -->
+
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-**Languages & Markup**
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" />
-
-<br/><br/>
-
-**Frameworks & Libraries**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,nodejs,express&theme=dark" />
-
-<br/><br/>
-
-**Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
-
-<br/><br/>
-
-**Tools & Platforms**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,nextjs,nodejs,express,mongodb,mysql,git,github,vscode,docker,linux,postman&theme=dark" />
 
 </div>
 
-<br/>
+<div align="center">
 
-<!-- ================= GITHUB STATS ================= -->
+| Category | Technologies |
+|---|---|
+| **Frontend** | HTML5 · CSS3 · JavaScript (ES6+) · TypeScript · Bootstrap · Tailwind CSS · React · Next.js |
+| **Backend** | Node.js · Express.js |
+| **Database** | MongoDB · MySQL |
+| **Tools & Platforms** | Git · GitHub · VS Code · Docker · Linux · Postman |
+
+</div>
+
+---
+
+<!-- ===================== GITHUB STATS ===================== -->
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Balu143865&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&count_private=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Balu143865&theme=tokyonight&hide_border=true&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Balu143865&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Balu143865&theme=tokyonight&hide_border=true&background=0d1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balu143865&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balu143865&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=c9d1d9"/>
 
 </div>
 
-<br/>
+---
 
-<!-- ================= CONTRIBUTION GRAPH ================= -->
-## 📈 Contribution Graph
+<!-- ===================== CONTRIBUTION GRAPH ===================== -->
+
+## 📈 GitHub Contribution Calendar
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Balu143865&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff" width="100%"/>
+
+<img
+  src="https://github-contribution-graph.ez4o.com/?username=Balu143865&last_n_days=365"
+  width="100%"
+  alt="GitHub Contribution Calendar"
+/>
+
+<br/><br/>
+
+### 🐍 Contribution Snake
+
+<img
+  src="https://raw.githubusercontent.com/Balu143865/Balu143865/output/github-contribution-grid-snake-dark.svg"
+  alt="GitHub Contribution Snake"
+/>
+
 </div>
+> 💡 **Setup note:** The snake animation above requires the [`platane/snk`](https://github.com/Platane/snk) GitHub Action configured on this repository to generate `github-contribution-grid-snake-dark.svg` on the `output` branch.
 
-<br/>
+---
 
-<!-- ================= SNAKE ================= -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/Balu143865/Balu143865/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation placeholder"/>
+<!-- ===================== FEATURED PROJECTS ===================== -->
 
-<sub>⚙️ Snake animation auto-generates via GitHub Actions — see setup note at the bottom of this README.</sub>
-</div>
-
-<br/>
-
-<!-- ================= PROJECTS ================= -->
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -121,123 +120,130 @@
 <tr>
 <td width="33%" valign="top">
 
-### 🛒 Project One
-Full-stack e-commerce platform with cart, auth, and payment integration built for real-world scalability.
+### 🛒 E-Commerce Platform
+Full-featured e-commerce web app with product catalog, cart, secure checkout, and an admin dashboard for inventory management.
 
-**Tech Stack**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express&theme=dark" height="28"/>
+**Tech:** React · Node.js · Express · MongoDB
 
-<br/><br/>
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-393?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
+</p>
 
 [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Balu143865)
-[![Demo](https://img.shields.io/badge/Live_Demo-38BDF8?style=flat-square&logo=vercel&logoColor=white)](https://modern-portfolio-new.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-38BDF8?style=flat-square&logo=vercel&logoColor=white)](https://modern-portfolio-new.vercel.app/)
 
 </td>
 <td width="33%" valign="top">
 
-### 📋 Project Two
-Real-time task management app with drag-and-drop boards, powered by a REST API and JWT authentication.
+### 📋 Task Management App
+Collaborative task and project tracker with drag-and-drop boards, real-time updates, and role-based access control.
 
-**Tech Stack**
-<br/>
-<img src="https://skillicons.dev/icons?i=nextjs,typescript,tailwind,mysql&theme=dark" height="28"/>
+**Tech:** Next.js · TypeScript · MySQL
 
-<br/><br/>
+<p>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
 
 [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Balu143865)
-[![Demo](https://img.shields.io/badge/Live_Demo-38BDF8?style=flat-square&logo=vercel&logoColor=white)](https://modern-portfolio-new.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-38BDF8?style=flat-square&logo=vercel&logoColor=white)](https://modern-portfolio-new.vercel.app/)
 
 </td>
 <td width="33%" valign="top">
 
-### 🎨 Project Three
-Modern developer portfolio with animated UI, dark mode, and optimized performance scores.
+### 💼 Personal Portfolio
+Modern, responsive developer portfolio showcasing projects, skills, and experience with smooth animations.
 
-**Tech Stack**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,tailwind,vercel,js&theme=dark" height="28"/>
+**Tech:** React · Tailwind CSS · Vercel
 
-<br/><br/>
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+</p>
 
 [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Balu143865)
-[![Demo](https://img.shields.io/badge/Live_Demo-38BDF8?style=flat-square&logo=vercel&logoColor=white)](https://modern-portfolio-new.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-38BDF8?style=flat-square&logo=vercel&logoColor=white)](https://modern-portfolio-new.vercel.app/)
 
 </td>
 </tr>
 </table>
 
-<sub>📌 Replace the placeholders above with your actual repo links, screenshots, and live demo URLs.</sub>
-
 </div>
 
-<br/>
+> 📌 *Replace project details and links above with your actual repositories for the most accurate, recruiter-ready showcase.*
 
-<!-- ================= CURRENTLY LEARNING ================= -->
+---
+
+<!-- ===================== CURRENTLY LEARNING ===================== -->
+
 ## 🌱 Currently Learning
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Artificial_Intelligence-0f172a?style=for-the-badge&logo=openai&logoColor=38bdf8&labelColor=1e293b"/>
-<img src="https://img.shields.io/badge/System_Design-0f172a?style=for-the-badge&logo=architecture&logoColor=38bdf8&labelColor=1e293b"/>
-<img src="https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=38bdf8&labelColor=1e293b"/>
-<br/>
-<img src="https://img.shields.io/badge/AWS-0f172a?style=for-the-badge&logo=amazonaws&logoColor=38bdf8&labelColor=1e293b"/>
-<img src="https://img.shields.io/badge/DevOps-0f172a?style=for-the-badge&logo=githubactions&logoColor=38bdf8&labelColor=1e293b"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/System%20Design-6E56CF?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/DevOps-000000?style=for-the-badge&logo=githubactions&logoColor=white"/>
 
 </div>
 
-<br/>
+---
 
-<!-- ================= ACHIEVEMENTS ================= -->
+<!-- ===================== ACHIEVEMENT BADGES ===================== -->
+
 ## 🏆 Achievements & Badges
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Problem_Solving-38bdf8?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0f172a"/>
-<img src="https://img.shields.io/badge/Full_Stack_Ready-38bdf8?style=for-the-badge&logo=stackblitz&logoColor=white&labelColor=0f172a"/>
-<img src="https://img.shields.io/badge/Fast_Learner-38bdf8?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=0f172a"/>
-<img src="https://img.shields.io/badge/Team_Player-38bdf8?style=for-the-badge&logo=slack&logoColor=white&labelColor=0f172a"/>
+<img src="https://img.shields.io/badge/Problem%20Solving-Consistent-38BDF8?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Projects%20Built-3+-orange?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Learning-Everyday-blueviolet?style=for-the-badge&logo=bookstack&logoColor=white"/>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Balu143865&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/Balu143865?style=for-the-badge&color=38BDF8&labelColor=0d1117)
 
 </div>
 
-<br/>
+---
 
-<!-- ================= CONTACT ================= -->
+<!-- ===================== CONTACT ===================== -->
+
 ## 📬 Let's Connect
 
 <div align="center">
 
-I'm actively looking for **full-time / internship opportunities** as a Full Stack Developer.
-Feel free to reach out — I'd love to talk about how I can contribute to your team.
+I'm actively looking for opportunities as a **Full Stack Web Developer**.
+Feel free to reach out — I'm always open to discussing new projects, ideas, or opportunities.
 
-<br/>
-
-<a href="mailto:balunaikbanavath662@gmail.com">
-  <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://github.com/Balu143865">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/banavath-balu-naik-a9ab03298">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://modern-portfolio-new.vercel.app/">
-  <img src="https://img.shields.io/badge/View_Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-<a href="https://github.com/Balu143865">
-  <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="mailto:balunaikbanavath662@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 <br/>
 
-<!-- ================= FOOTER ================= -->
+<!-- ===================== FOOTER ===================== -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=120&section=footer"/>
+
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=140&section=footer"/>
-
-<sub>⭐ If you find my work interesting, consider giving my repositories a star — thank you for visiting!</sub>
-
-<br/>
-<sub>Designed & built with care by <b>Banavath Balu Naik</b></sub>
-
+<sub>⭐️ Thanks for visiting my profile — feel free to explore my repositories and reach out! ⭐️</sub>
 </div>
