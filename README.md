@@ -90,18 +90,11 @@
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./assets/contributions.dark.svg"
-  />
-
-  <img
-    src="./assets/contributions.light.svg"
-    width="100%"
-    alt="GitHub Contribution Calendar"
-  />
-</picture>
+<img
+  src="https://raw.githubusercontent.com/Balu143865/Balu143865/output/contribution-calendar.svg"
+  width="100%"
+  alt="GitHub Contribution Calendar"
+/>
 
 </div>
 
