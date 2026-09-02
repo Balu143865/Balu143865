@@ -91,19 +91,29 @@
 <div align="center">
 
 <img
-  src="https://github-contribution-graph.ez4o.com/?username=Balu143865&last_n_days=365"
+  src="https://raw.githubusercontent.com/Balu143865/Balu143865/output/contribution-calendar.svg"
   width="100%"
   alt="GitHub Contribution Calendar"
 />
 
-<br/><br/>
+</div>
+---
 
-### 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
-<img
-  src="https://raw.githubusercontent.com/Balu143865/Balu143865/output/github-contribution-grid-snake-dark.svg"
-  alt="GitHub Contribution Snake"
-/>
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Balu143865/Balu143865/output/github-contribution-grid-snake-dark.svg"/>
+
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Balu143865/Balu143865/output/github-contribution-grid-snake.svg"/>
+
+  <img
+    src="https://raw.githubusercontent.com/Balu143865/Balu143865/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"/>
+</picture>
 
 </div>
 > 💡 **Setup note:** The snake animation above requires the [`platane/snk`](https://github.com/Platane/snk) GitHub Action configured on this repository to generate `github-contribution-grid-snake-dark.svg` on the `output` branch.
