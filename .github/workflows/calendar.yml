@@ -1,0 +1,37 @@
+name: Generate Contribution Calendar
+
+on:
+  schedule:
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+
+jobs:
+  calendar:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate GitHub Contribution Calendar
+        uses: lowlighter/metrics@latest
+        with:
+          user: Balu143865
+
+          token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+
+          filename: contribution-calendar.svg
+
+          template: classic
+          base: ""
+
+          config_timezone: Asia/Kolkata
+
+          plugin_calendar: yes
+          plugin_calendar_limit: 1
+
+          optimize: svg
+
+          committer_branch: output
+          committer_message: "Update contribution calendar"
